@@ -1,2 +1,2 @@
 # Smart-Assistant
-A shell script program that recogonizes defenations for you.
+A shell script program that recognizes defenations for you.
